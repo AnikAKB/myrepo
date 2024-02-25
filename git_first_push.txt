@@ -1,0 +1,9 @@
+1. create Github account
+2. create Empty Repo. 
+3. local system 
+	git config --global user.name "anik"
+	git config --global user.mail "ak.anikbiswas07@gmail.com"
+	git config --list
+4. git push -u origin master
+	Username for 'https://github.com': AnikAKB
+	Password for 'https://AnikAKB@github.com': ghp_wsgZocNaU04bRucsNF5Kh2HAnKAaui14zyYv
