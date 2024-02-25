@@ -1,9 +1,14 @@
 1. create Github account
 2. create Empty Repo. 
 3. local system 
-	git config --global user.name "anik"
-	git config --global user.mail "ak.anikbiswas07@gmail.com"
-	git config --list
+	create a local file. ex - "readme.txt".
+	git add readme.txt
+	git commit -m "readme"
+	------- this stage commit is donr on the local system------
+	a. git config --global user.name "anik"
+	b. git config --global user.mail "ak.anikbiswas07@gmail.com"
+	c. git config --list
+	------- this a and b need to done for set the username for the commit
 4. git push -u origin master
 	Username for 'https://github.com': AnikAKB
 	Password for 'https://AnikAKB@github.com': ghp_wsgZocNaU04bRucsNF5Kh2HAnKAaui14zyYv
